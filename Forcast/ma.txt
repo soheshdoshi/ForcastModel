@@ -1,0 +1,4 @@
+https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/
+https://github.com/welch/seasonal
+seasonality index
+https://www.datahubbs.com/forecasting-with-seasonality/
