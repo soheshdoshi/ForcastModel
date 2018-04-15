@@ -1,6 +1,6 @@
-# ForcastModel in Python
+# ForecastModel in Python
 
-This Model is Base On Halt & Winter Algorithm.This Model is Forecast About Seasonal Data.
+This Model is Base On Halt & Winter Algorithm.This Model is Forecast For Seasonal Data.
 
 ## What's included?
 
